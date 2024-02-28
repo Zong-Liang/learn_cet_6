@@ -1,27 +1,27 @@
 # list_08
 
-| 单词 | 音标 | 解释 |
-| :--: | :--: | :--: |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
-|      |      |      |
+|     单词      | 音标 | 解释 |
+| :-----------: | :--: | :--: |
+|    confer     |      |      |
+| confidential  |      |      |
+| conscientious |      |      |
+|  consolidate  |      |      |
+| constitution  |      |      |
+|   constrain   |      |      |
+|  contemplate  |      |      |
+|  continuity   |      |      |
+| controversial |      |      |
+|  cooperative  |      |      |
+|    costume    |      |      |
+|    cripple    |      |      |
+|     curse     |      |      |
+|    defect     |      |      |
+|   delicacy    |      |      |
+|  demographic  |      |      |
+|               |      |      |
+|               |      |      |
+|               |      |      |
+|               |      |      |
 
 | 单词 | 音标 | 解释 |
 | :--: | :--: | :--: |
