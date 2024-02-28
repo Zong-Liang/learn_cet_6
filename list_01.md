@@ -48,28 +48,28 @@
 |   advantage   |      |      |
 |    emotion    |      |      |
 
-|    单词     | 音标 | 解释 |
-| :---------: | :--: | :--: |
-|  evidence   |      |      |
-| performance |      |      |
-|    avoid    |      |      |
-|    force    |      |      |
-|  financial  |      |      |
-|   factor    |      |      |
-|   disease   |      |      |
-|  effective  |      |      |
-|    fund     |      |      |
-|  cognitive  |      |      |
-| contribute  |      |      |
-|   figure    |      |      |
-|   protein   |      |      |
-|   region    |      |      |
-|  attitude   |      |      |
-| management  |      |      |
-|  solution   |      |      |
-|    fuel     |      |      |
-|  insurance  |      |      |
-| behavio(u)r |      |      |
+|        单词         | 音标 | 解释 |
+| :-----------------: | :--: | :--: |
+|      evidence       |      |      |
+|     performance     |      |      |
+|        avoid        |      |      |
+|        force        |      |      |
+|      financial      |      |      |
+|       factor        |      |      |
+|       disease       |      |      |
+|      effective      |      |      |
+|        fund         |      |      |
+|      cognitive      |      |      |
+|     contribute      |      |      |
+|       figure        |      |      |
+|       protein       |      |      |
+|       region        |      |      |
+|      attitude       |      |      |
+|     management      |      |      |
+|      solution       |      |      |
+|        fuel         |      |      |
+|      insurance      |      |      |
+| behavior、behaviour |      |      |
 
 |     单词     | 音标 | 解释 |
 | :----------: | :--: | :--: |
